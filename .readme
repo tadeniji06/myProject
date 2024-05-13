@@ -1,0 +1,3 @@
+This is a simple react Blog that enables a user to view, create and delete created job posts.
+
+Dependencies used in this project were: json server, react hooks like, useState, useEffect, useParams etc.
